@@ -1,7 +1,7 @@
 'use strict';
 
 let yourName = prompt('enter yourname please');
-alert('welcome dear' +' ' + yourname);
+alert('welcome dear' +' ' + yourName);
 
 let mycolor = prompt('is my fav color is blue?');
 
@@ -13,7 +13,7 @@ if ( mycolor === 'yes' )
 }
 else 
 {
-    alert('nooo its not')
+    alert('nooo its not');
  
 }
 
@@ -53,5 +53,5 @@ if (myphone === 'samsung')
 }
 else 
 {
-    ('noo i only love samsung brand');
+    alert ('noo i only love samsung brand');
 }
