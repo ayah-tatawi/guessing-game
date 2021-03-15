@@ -30,11 +30,11 @@ let myfood = prompt('is my fav food is mansaf?');
 if (myfood === 'yes')
 
 {
-    alert (yuuup its yummy!);
+    alert ('yuuup its yummy!');
 }
 else
 {
-    alert(no thats wrong!);
+    alert('no thats wrong!');
 }
 // let myjob = prompt('is my job is an artist?);
 // if (myjob === 'yes')
